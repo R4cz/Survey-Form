@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./resources/readme/survey-form.png" alt="survey-form-image"></p>
 
-<p id="description">A responsive survey form made with HTML and CSS.</p>
+<p id="description">A responsive survey form.</p>
 
 ## Table of Contents
 
